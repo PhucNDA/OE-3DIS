@@ -51,7 +51,7 @@ pip install torch==2.0.1 torchvision==0.15.2
 pip install -r requirements.txt
 ```
 
-VLM weight: [weigth](https://drive.google.com/file/d/1ObaklM3NohoPIm_IaTde0RbCefZC8RtL/view?usp=drive_link)
+VLM weight: [weights](https://drive.google.com/file/d/1ObaklM3NohoPIm_IaTde0RbCefZC8RtL/view?usp=drive_link)
 
 Save it under:
 ```
