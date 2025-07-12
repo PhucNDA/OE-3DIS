@@ -4,7 +4,7 @@
 3. [Run the code](#Run_the_code)
 4. [Acknowledgments](#Acknowledgments)
 
-# Open-Ended 3D Point Cloud Instance Segmentation [ICCV'25 - Open-World 3D Scene Understanding with Foundation Models](https://www.computer.org/csdl/proceedings/1800041)
+# Open-Ended 3D Point Cloud Instance Segmentation [ICCV'25 - OpenSUN3D](https://iccv.thecvf.com/)
 
 by [Phuc Nguyen](https://phucnda.github.io/), [Minh Luu](https://minhluu2911.github.io/), [Anh Tran](https://scholar.google.com/citations?user=FYZ5ODQAAAAJ&hl=en), [Cuong Pham](https://sites.google.com/view/cuongpham/home) and [Khoi Nguyen](https://www.khoinguyen.org/)
 
