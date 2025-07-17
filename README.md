@@ -171,6 +171,16 @@ data
 
 ## Run the code :running:
 
+Install InstructBLIP weight:
+```
+pip install transformers==4.44.1
+python3 from transformers import InstructBlipProcessor, InstructBlipForConditionalGeneration
+```
+After that, return to 
+```
+pip install transformers==4.33.1
+```
+
 1\) Top-1 Score Mask Open-Ended 3D Instance Segmentation
 
 ```
