@@ -8,6 +8,8 @@
 
 by [Phuc Nguyen](https://phucnda.github.io/), [Minh Luu](https://minhluu2911.github.io/), [Anh Tran](https://scholar.google.com/citations?user=FYZ5ODQAAAAJ&hl=en), [Cuong Pham](https://sites.google.com/view/cuongpham/home) and [Khoi Nguyen](https://www.khoinguyen.org/)
 
+# [Project Page](https://phucnda.github.io/blog/oe3dis/index.html)
+
 ## News :zap:
 * **Jul 2025**: We release the source code for OE-3DIS
 
